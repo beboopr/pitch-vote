@@ -1,0 +1,18 @@
+.section-title-container {
+  display: flex;
+  justify-content: center;
+}
+.section-title {
+  display: flex;
+  background-color: var(--light-mint);
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  margin-top: 36px;
+  margin-bottom: 36px;
+}
+
+.section-title-h3 {
+  font-size: calc(1rem +.4vw);
+  padding: 1em;
+}

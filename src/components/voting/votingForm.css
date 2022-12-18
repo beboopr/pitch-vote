@@ -1,0 +1,20 @@
+.form-item-container {
+    /* display: flex; */
+border: #E9DAC1 solid 2px ;
+background-color: #E9DAC1;
+}
+.voting-form-main-container {
+    /* display: flex; */
+background-color: #E9DAC1;
+}
+.voting-title-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.title-text {
+    margin: 1rem;
+    text-decoration-line: underline;
+}
+
+

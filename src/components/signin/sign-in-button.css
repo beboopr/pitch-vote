@@ -1,0 +1,9 @@
+
+#sign-in-button {
+    color: white;
+    background-color: var(--dark-mint);
+    border-color: var(--dark-mint);
+    margin: 1rem;
+    font-size: 18px;
+}
+

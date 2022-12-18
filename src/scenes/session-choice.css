@@ -1,0 +1,48 @@
+.choose-session-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.choose-session-box {
+  margin-bottom: 30px;
+  background-color: var(--light-mint);
+  margin-top: 18px;
+  block-size: 8rem;
+  font-size: 26px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  align-content: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.ant-btn-primary {
+  background-color: var(--dark-mint) !important;
+  border-color: var(--dark-mint) !important;
+  display: block;
+  color: #fff;
+  align-content: center;
+  margin-bottom: 16px;
+  margin-top: 16px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 20px !important;
+  text-shadow: 0 -1px 0 rgb(0 0 0 / 12%);
+  box-shadow: 0 2px 0 rgb(0 0 0 / 5%);
+  height: 58px !important
+}
+
+.session-choice-button-box {
+  width: 80%;
+  margin-top: 30px;
+}
+
+.session-choice-button {
+  font-size: 30px !important;
+  width: 100% !important;
+  margin-bottom: 30px;
+}

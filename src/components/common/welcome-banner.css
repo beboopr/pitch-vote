@@ -1,0 +1,10 @@
+.welcome-banner-container {
+  background-color: var(--dark-grey);
+  padding: 4px;
+  position: relative;
+  margin: 2em 0;
+}
+
+.welcome-banner-h1 {
+  color: white;
+}

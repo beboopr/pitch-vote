@@ -1,0 +1,17 @@
+.startup-title {
+  background-color: var(--dark-cream);
+  width: 80vw;
+  margin: 1em auto;
+  padding: .5em;
+}
+
+.startup-title h3 {
+  font-size: 24px;
+  font-weight: 300;
+  text-decoration: underline;
+  margin-bottom: 0;
+}
+.startup-title h4 {
+  font-size: 20px;
+  font-weight: 300;
+}
